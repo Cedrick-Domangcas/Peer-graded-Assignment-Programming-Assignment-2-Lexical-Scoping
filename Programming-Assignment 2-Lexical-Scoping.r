@@ -32,3 +32,4 @@ cacheSolve <- function(x, ...) {
   x$setsolve(s)
   s
 }
+## Cedrick Domangcas
